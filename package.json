@@ -1,0 +1,11 @@
+{
+	"adventConfig": {
+		"year": "2022",
+		"nameTemplate": "day{{num}}.js",
+		"templateFile": "node_modules/advent-of-code/src/templates/day.js"
+	},
+	"dependencies": {
+		"advent-of-code": "^5.0.0",
+		"lodash": "^4.17.21"
+	}
+}
